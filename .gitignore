@@ -1,8 +1,7 @@
-npm-debug.log
-node_modules
-.*.swp
-.lock-*
-build
-coverage
-
-builderror.log
+/nbproject/
+/.idea/*
+*.tmlanguage.cache
+*.tmPreferences.cache
+*.stTheme.cache
+*.sublime-workspace
+*.sublime-project
