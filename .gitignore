@@ -1,4 +1,7 @@
-node_modules/
-.nyc_output/
-coverage/
-.vscode/
+/nbproject/
+/.idea/*
+*.tmlanguage.cache
+*.tmPreferences.cache
+*.stTheme.cache
+*.sublime-workspace
+*.sublime-project
